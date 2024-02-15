@@ -1,0 +1,208 @@
+.first{
+    width: 80%;
+    height: 8vh;
+    background-color: purple;
+    border: 1px solid black;
+}
+
+.left{
+    position: absolute;
+    top: 3%;
+    left: 6%;
+    border-radius:50% ;
+    background-color: blue;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    color: white;
+}
+
+.name{
+    color: white;
+    position: absolute;
+    top: 3%;
+    left: 8%;
+}
+
+.right{
+    color: white;
+    position: absolute;
+    top: 3%;
+    left: 50%;
+}
+
+a{
+    margin-left: 15px;
+}
+
+.last{
+    color: white;
+    background-color: blue;
+    text-align: center;
+    width: 90px;
+    height: 4vh;
+    border: 0px;
+    border-radius: 20px;
+    position: absolute;
+    top: 3%;
+    left: 120%;
+    
+}
+
+.second{
+    border: 1px solid black;
+    position: absolute;
+    top: 9.2%;
+    width: 79.05%;
+    height: 70vh;
+    background-color: white;
+}
+
+.text{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    left: 20%;
+}
+span{
+    color: purple;
+}
+
+
+.text1{
+    color: white;
+    background-color: purple;
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    text-align: center;
+    height: 7vh;
+    width: 150px;
+    border-radius: 30px;
+    padding-top: 1%;
+    
+}
+
+.text2{
+    color: white;
+    background-color: purple;
+    position: absolute;
+    top: 60%;
+    left: 60%;
+    text-align: center;
+    height: 7vh;
+    width: 150px;
+    border-radius: 30px;
+    padding-top: 1%;
+}
+
+.img{
+    position: absolute;
+    top: 28%;
+    left: 40%;
+}
+.img img{
+    border-radius: 50%;
+}
+
+.third{
+    position: absolute;
+    top:79.2%;
+    width: 79.05%;
+    height: 12vh;
+    padding-top: 3%;
+    background-color: darkblue;
+    color: white;
+    border: 1px solid black;            
+}
+.in{
+    position: absolute;
+    background-color:white;
+    color: black;
+    height: 30px;
+    text-align: center;
+    top: 33%;
+    left: 44%;
+    font-size: 30px;
+}
+
+.third label{
+    font-size: 30px;
+    font-weight: 1;
+    margin-left: 13%;
+}
+
+.forth{
+    color: white;
+    position: absolute;
+    top: 97.4%;
+    height: 40vh;
+    width: 79.05%;
+    border: 1px solid black; 
+    background-color: purple;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.one{
+    font-size: 50px;
+    padding-top: 3%;
+    padding-left: 10%;
+    float: left;
+    width: 20%;
+}
+.two{
+    padding-top: 3%;
+    width: 55%;
+    float: right;
+
+}
+
+.ek{
+    position: absolute;
+    background-color:darkblue;
+    text-align: center;
+    padding-top: 2%;
+    border-radius: 20px;
+    top: 65%;
+    left: 10%;
+    height: 6vh;
+    width: 10vh;
+}
+.P{
+    position: absolute;
+    top: 68%;
+    left: 17%;
+}
+
+.do{
+    position: absolute;
+    background-color:darkblue;
+    text-align: center;
+    padding-top: 2%;
+    border-radius: 20px;
+    top: 65%;
+    left: 45%;
+    height: 6vh;
+    width: 10vh;
+}
+.H{
+    position: absolute;
+    top: 68%;
+    left: 52%;
+}
+
+.teen{
+    position: absolute;
+    background-color:darkblue;
+    text-align: center;
+    padding-top: 2%;
+    border-radius: 20px;
+    top: 65%;
+    left: 80%;
+    height: 6vh;
+    width: 10vh;
+}
+.C{
+    position: absolute;
+    top: 68%;
+    left: 87%;
+}

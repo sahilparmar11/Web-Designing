@@ -1,0 +1,81 @@
+.first{
+    background-color: gray;
+    height: 20vh;
+    border-bottom: 6px solid green;
+}
+
+.logo{
+    float: left;
+    width: 65%;
+    padding-left: 1%;
+    padding-top: 1%;
+    color: aquamarine;
+    
+}
+.menu{
+    float: right;
+    width: 33%;
+    color: white;
+    padding-top: 1%;
+}
+
+a{
+
+    margin-left: 2%;
+}
+
+.second{
+    border: 2px solid green;
+    height: 20vh;
+    width: 100%;
+    background-color:white;
+}
+
+.photo{
+    float: left;
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width:25%;
+}
+
+.text{
+    float: right;
+    width: 70%;
+    padding-top: 2%;
+    
+}
+
+.button{
+    text-align: center;
+    background-color: darkcyan;
+    border-radius: 50px;
+    border: 2px solid black;
+    width: 15%;
+    padding-top: 1%;
+    height: 4vh;
+}
+
+.third{
+    padding-left: 2%;
+    border-top: 7px solid white;
+    height: 60vh;
+    width: 95%;
+}
+.left{
+
+    float: left;
+    width: 45%;
+}
+
+.right{
+    float: right;
+    width: 45%;
+
+}
+
+.text1{
+    padding-left:1% ;
+    float: right;
+    
+}

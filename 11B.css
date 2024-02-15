@@ -1,0 +1,36 @@
+.parent {
+    display: grid;
+    justify-content: space-around;
+    Align-content: space-around;
+    grid-template-columns: repeat(3, 33%);
+    height: 100vh;
+    Width: 50%;
+    background-color: darkblue;
+    padding: 2%;
+}
+
+.child {
+    height: 17vh;
+    width: 30vh;
+    border-radius: 10px;
+}
+
+#d1{background: linear-gradient(135deg, lightgreen,cyan,pink)}
+#d2{background: linear-gradient(blue,cyan)}
+#d3{background: linear-gradient(135deg, yellow,rgb(213,130,147),blue)}
+
+#d4{background: linear-gradient(-45deg,rgb(250,93,93),peachpuff)}
+#d5{background: linear-gradient(135deg, rgb(41,176,255),pink)}
+#d6{background: linear-gradient(45deg,orange, red,rgb(214,42,157))}
+
+#d7{background: linear-gradient(135deg,pink, purple,blue)}
+#d8{background: linear-gradient(135deg,gold, white)}
+#d9{background: linear-gradient(-45deg,rgb(250,93,93),peachpuff)}
+
+#d10{background: linear-gradient(135deg,rgb(245, 245, 160), cyan,rgb(110, 173, 110))}
+#d11{background: linear-gradient(90deg,rgb(229, 229, 160),pink,lightblue)}
+#d12{background: linear-gradient(rgb(160, 85, 97), rgb(160, 85, 97),red,yellow)}
+
+#d13{background: linear-gradient(45deg,white,rgb(90, 129, 14))}
+#d14{background: linear-gradient(45deg,pink,rgb(138, 29, 138),rgb(71, 71, 176))}
+#d15{background: linear-gradient(45deg,lightgreen,blue)} 

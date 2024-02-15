@@ -1,0 +1,31 @@
+.Page{
+    background-color: aqua;
+    border-left: 20cap;
+    border-right: 20cap;
+    /* height:  35vh; */
+/* background-color: ; */
+}
+.Header{
+    background-color: rebeccapurple;
+}
+.Content{
+    background-color: darkorange;
+    height: 33vh;
+}
+
+.Entry{
+    width: 45%;
+    height: 200px;
+    float: left;
+}
+.Sidebar{
+    width: 45%;
+    height: 200px;
+    float: right;
+}
+.DU{
+    background-color: blue;
+    height: 30px;
+    /* position: absolute; */
+    width: 100%;
+}

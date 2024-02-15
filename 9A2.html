@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        div{
+            height: 100px;
+            width: 100px;
+            animation-name: direction;
+            animation-duration: 10s;
+            position: absolute;
+        }
+
+        @keyframes direction {
+            0%{
+                background-color: red;
+                left: 0px;
+                top: 0px;
+            }
+            25%{
+                background-color: blue;
+                left: 200px;
+                top: 0px;
+            }
+            50%{
+                background-color: green;
+                left: 200px;
+                top: 200px;
+            }
+            75%{
+                background-color: yellow;
+                left: 0px;
+                top: 200px;
+            }
+            100%{
+                background-color: red;
+                left: 0px;
+                top: 0px;
+            }
+              
+        }
+    </style>
+    <title>Document</title>
+
+</head>
+<body>
+    <div></div>
+</body>
+</html>
