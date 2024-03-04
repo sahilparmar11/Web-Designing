@@ -1,0 +1,132 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+.first{
+    width: 100%;
+    height: 10vh;
+}
+.logo{
+    padding-top: 1%;
+    padding-left: 3%;
+}
+.nav{
+    position: absolute;
+    left: 40%;
+    top: 3%; 
+    width: 90%;
+    font-family:sans-serif;
+    font-weight: 400;
+}
+.nav label{
+    margin-left: 4%;
+}
+.nav label:hover{
+    background: linear-gradient(135deg,pink,pink,cyan);
+}
+.nav select{
+    background: none;
+    border: 0px;
+}
+#home{
+    color: orange;
+}
+.second{
+    width: 100%;
+    height: 75vh;
+    background:linear-gradient(135deg,pink,pink,cyan);
+}
+.heading{
+    color: white;
+    position: absolute;
+    left: 10%;
+    top: 30%;
+    font-size: 35px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.middle{
+    position: absolute;
+    left: 10%;
+    top: 45%;
+    width: 35%;
+    color: white;
+    font-family: sans-serif;
+}
+.search{
+    position: absolute;
+    left: 10%;
+    top: 60%;
+    
+}
+#text{
+    height: 7vh;
+    width: 170%;
+    border: none;
+    padding-left: 10%;
+    
+}
+.track{
+    position: absolute;
+    width: 10%;
+    height: 7vh;
+    left: 31%;
+    top: 60%;
+    background-color: orange;
+    text-align: center;
+    color: white;
+    padding-top: 1%;
+    font-family: sans-serif;
+    /* box-shadow: 5px 5px 5px black; */
+}
+.track:hover{
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.third{
+    width: 100%;
+    height: 30vh;
+}
+.png{
+    position: absolute;
+    top: 80%;
+    left: 10%;
+    width: 100%;
+}
+.png img{
+    height: 30vh;
+    margin-left: 1.5%;
+    border: 1px solid black;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.png img:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.text1{
+    color: orange;
+    font-family: sans-serif;
+    position: absolute;
+    top: 113%;
+    left: 18%;
+    font-size: 16px;
+    
+}
+.text2{
+    color: orange;
+    font-family: sans-serif;
+    position: absolute;
+    top: 113%;
+    left: 44%;
+    font-size: 16px;
+    
+}
+.text3{
+    color: orange;
+    font-family: sans-serif;
+    position: absolute;
+    top: 113%;
+    left: 67%;
+    font-size: 16px;
+    
+}
+
